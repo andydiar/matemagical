@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class siguimientopB : MonoBehaviour
+public class siguimiento : MonoBehaviour
 {
     private Rigidbody rbEnemigo;
     private GameObject jugador;
