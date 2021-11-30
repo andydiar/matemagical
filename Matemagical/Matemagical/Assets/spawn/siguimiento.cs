@@ -11,7 +11,7 @@ public class siguimiento : MonoBehaviour
     void Start()
     {
         rbEnemigo = GetComponent<Rigidbody>();
-        jugador = GameObject.Find("numero1");
+        jugador = GameObject.Find("numero 1");
     }
 
     // Update is called once per frame
